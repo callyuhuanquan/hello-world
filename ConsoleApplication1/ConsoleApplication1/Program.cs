@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("code for hotfix 1");
+            Console.WriteLine("code for hotfix 2");
         }
     }
 }

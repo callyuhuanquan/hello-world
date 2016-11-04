@@ -1,2 +1,3 @@
 C:\Users\ayu1\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 D:\SIM\Github\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SIM\Github\hello-world\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
